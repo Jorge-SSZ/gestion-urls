@@ -1,4 +1,4 @@
-console.log('Que p2 hijos de perra :v');
+console.log('Que onda :v');
 
 document.addEventListener("click", (e) => {
   if(e.target.dataset.short) {
